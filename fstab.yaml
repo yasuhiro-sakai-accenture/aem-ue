@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p241405-e2403422.adobeaemcloud.com/bin/franklin.delivery/yasuhiro-sakai-accenture/aem-ue/main"
-    type: "markup"
-    suffix: ".html"
