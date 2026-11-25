@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-ue--yasuhiro-sakai-accenture.aem.page/
+- Live: https://main--aem-ue--yasuhiro-sakai-accenture.aem.live/
 
 ## Documentation
 
